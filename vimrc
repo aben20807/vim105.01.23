@@ -1,8 +1,8 @@
 "括號引號補全
-"":inoremap { {<CR>}<ESC>O
+:inoremap { {<CR>}<ESC>O
 :inoremap ( ()<ESC>i
 :inoremap [ []<ESC>i
-:inoremap { {}<ESC>i		
+":inoremap { {}<ESC>i		
 
 "自動縮排：即每行的缩排與上一行相等；使用noautoindent取消
 ""nnoremap <F3> :set autoindent!<CR>
