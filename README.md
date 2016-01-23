@@ -1,4 +1,5 @@
 vim105.01.23<br>
-vim => .vim
-two plugin : 1.pathogen : manage plugins
-             2.plugin_indent : 
+vim => .vim<br>
+two plugin : <br>
+1.pathogen : manage plugins<br>
+2.plugin_indent :<br> 
